@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["example"]
+members = ["docs-follow-along"]
 
 [workspace.dependencies]
 windows-reactor = { git = "https://github.com/microsoft/windows-rs", default-features = false }

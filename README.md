@@ -1,1 +1,1 @@
-Examples on https://microsoft.github.io/microsoft-ui-reactor/ ported to Rust using the [windows-rs](https://github.com/ microsoft/windows-rs) set of crates
+Examples on https://microsoft.github.io/microsoft-ui-reactor/ ported to Rust using the [windows-rs](https://github.com/microsoft/windows-rs) set of crates
