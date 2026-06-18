@@ -6,7 +6,7 @@ fn main() -> Result<()> {
 }
 
 fn app(cx: &mut RenderCx) -> Element {
-    let (count, set_count) = cx.use_state(0_u8);
+    let (count, set_count) = cx.use_state(0_i8);
     let set_count_2 = set_count.clone();
 
     hstack((
